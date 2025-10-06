@@ -109,8 +109,3 @@ If you find a bug or have a suggestion, open an issue here:
 ## 👨‍💻 Author
 **danangsptro**  
 📦 [GitHub Repository](https://github.com/danangsptro/bookstore)
-
----
-
-## 📝 License
-This project is licensed under the **ISC License**.
