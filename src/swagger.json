@@ -23,13 +23,16 @@
       "User": {
         "type": "object",
         "properties": {
-          "id": {
+          "name": {
             "type": "string"
           },
           "email": {
             "type": "string"
           },
           "role": {
+            "type": "string"
+          },
+          "password": {
             "type": "string"
           }
         }
